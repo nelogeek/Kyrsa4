@@ -1,0 +1,11 @@
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\bin\Debug\Kyrsa4.exe.config
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\bin\Debug\Kyrsa4.exe
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\bin\Debug\Kyrsa4.pdb
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.csprojAssemblyReference.cache
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.csproj.ResolveComReference.cache
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.Form1.resources
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.Properties.Resources.resources
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.csproj.GenerateResource.cache
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.csproj.CoreCompileInputs.cache
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.exe
+C:\Users\iell\source\repos\Kyrsa4\Kyrsa4\obj\Debug\Kyrsa4.pdb
